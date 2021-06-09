@@ -1,0 +1,19 @@
+{
+  "name": "clientpanel",
+  "version": "0.0.1",
+  "description": "Painel interativo de controle de clientes em assinaturas web",
+  "main": "index.js",
+  "authors": {
+    "name": "Arthur Carlos da Silva",
+    "email": "arthurcarlos17@gmail.com"
+  },
+  "repository": "gitlab.com/educadores-no-linux/clientpanel/clientpanel",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
