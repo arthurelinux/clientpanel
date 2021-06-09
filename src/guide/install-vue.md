@@ -21,6 +21,7 @@ Exemplo 3 | R$ 7
 Exemplo 4 | R$ 8
 
 ## Tabela
+Essa é uma tabela mais bem trabalhada 
 
 Alinhado a esquerda | Centralizado | Alinhado a direita
 :--------- | :------: | -------:
